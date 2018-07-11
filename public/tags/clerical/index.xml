@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clerical on CUPE Hospitals</title>
+    <link>/tags/clerical/</link>
+    <description>Recent content in Clerical on CUPE Hospitals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2017 16:43:23 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/clerical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clerical News - July</title>
+      <link>/newsletter/clerical-july/</link>
+      <pubDate>Wed, 19 Jul 2017 16:43:23 -0400</pubDate>
+      
+      <guid>/newsletter/clerical-july/</guid>
+      <description>Technological changes pose particular issues for clerical staff Below are just some examples of the revolution through technological change taking place in hospitals across Ontario, which is eliminating the jobs of clerical employees.
+ Digitization of medical records Automation of dicta-typing and medical transcription Electronic patient registration kiosks  In our central bargaining with Ontario hospitals, CUPE is seeking increased protections against the impact of technological changes on clerical staff.</description>
+    </item>
+    
+  </channel>
+</rss>

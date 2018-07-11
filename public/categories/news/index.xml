@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on CUPE Hospitals</title>
+    <link>/categories/news/</link>
+    <description>Recent content in News on CUPE Hospitals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RPNs have a strong voice with CUPE</title>
+      <link>/facts/rpn-info/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/facts/rpn-info/</guid>
+      <description>New infographic flyer explains why CUPE is the right union for RPNs.
+Download the PDF version
+CUPE bargaining sets the lead for all hospital service, RPN, and clerical workers in Ontario. Comparing our collective agreements to other unions bears this out. CUPE has superior language on seniority rights, job security, layoffs and recall, and health and safety to name but a few issues.
+Did you know that?  With nearly 80,000 members employed in hospitals, long-term care, community care and paramedicine, CUPE is Ontario’s largest health care union.</description>
+    </item>
+    
+    <item>
+      <title>Your right to join a union is protected by law in Ontario.</title>
+      <link>/news/union-rights-2016-01-01/</link>
+      <pubDate>Fri, 01 Jan 2016 10:00:00 +0530</pubDate>
+      
+      <guid>/news/union-rights-2016-01-01/</guid>
+      <description>The Ontario Labour Relations Act (OLRA) In Ontario the OLRA protects the rights of workers to join a Union. Sections 70 and 72 of the OLRA prohibit employers from interfering with an employee’s right to join a union and ensures that employees are free from coercion, intimidation, threats, promises or undue influence, including reprisals for their support and involvement with the union. If the employer violates those rights CUPE will file an Unfair Labour Practice application with the Labour Board.</description>
+    </item>
+    
+  </channel>
+</rss>

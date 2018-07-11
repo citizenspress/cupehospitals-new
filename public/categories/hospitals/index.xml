@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hospitals on CUPE Hospitals</title>
+    <link>/categories/hospitals/</link>
+    <description>Recent content in Hospitals on CUPE Hospitals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/hospitals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toronto Western Hospital</title>
+      <link>/hospital/twh/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hospital/twh/</guid>
+      <description>CUPE Welcomes TWH Part-Time &amp;amp; Clerical Congratulations for voting to join CUPE!
+An overwhelming majority of part-time and casual clerical at TWH have voted in favour of joining CUPE.
+Next steps: Over the next few weeks CUPE will be contacting you and setting-up a membership meeting to answer all your questions.
+At this meeting we will also be discussing:
+ options of establishing your own local or joining another local in the UHN Network your bargaining priorities electing officers outlining the way forward to getting a collective agreement.</description>
+    </item>
+    
+  </channel>
+</rss>
